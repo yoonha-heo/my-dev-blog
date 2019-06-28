@@ -1,8 +1,8 @@
 module.exports = {
-  title: `Web Developer`,
+  title: `Web Dev Journey`,
   description: `Blog posted about ...`,
   author: `RossenaHuh`,
-  introduction: `Fast in learning, Easy to communicate`,
+  introduction: `💓JS 🧡react 💚sharing knowledge`,
   siteUrl: `https://github.com/rossenahuh`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
@@ -14,7 +14,7 @@ module.exports = {
   keywords: [`blog`],
   comment: {
     disqusShortName: 'RossenaHuh', // Your disqus-short-name. check disqus.com.
-    utterances: 'JaeYeopHan/gatsby-starter-bee', // Your repository for archive comment
+    utterances: 'rossenahuh/my-dev-blog.git', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
@@ -25,5 +25,5 @@ module.exports = {
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: '', // Add your google analytics tranking ID
+  ga: 'UA-125671205-2', // Add your google analytics tranking ID
 }
