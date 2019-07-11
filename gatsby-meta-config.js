@@ -1,5 +1,5 @@
 module.exports = {
-  title: `Web Dev Journey`,
+  title: `Web Devlog`,
   description: `Blog posted about ...`,
   author: `RossenaHuh`,
   introduction: `💓JS 🧡react 💚sharing knowledge`,
