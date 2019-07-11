@@ -269,3 +269,14 @@ let temp = null // null
 // compare the two
 console.log(foo == temp) // 'true' what??
 ```
+
+<br>
+<br>
+
+_References_
+
+https://www.youtube.com/watch?v=MY0UBGX2FtA&t=1025s
+https://2ality.com/2015/02/es6-scoping.html
+
+<br>
+<br>
