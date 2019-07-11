@@ -6,7 +6,7 @@ category: 'TIL'
 
 ## 1. Explain event delegation
 
-JS event listeners fire not only on a single DOM element but on **all its decendatns**. For example, if you add event listeners to ul, you're actually adding event listeners to all of children elements inside ul as well. This happens through a process called **event bubbling**
+JS event listeners fire not only on a single DOM element but on **all its decendants**. For example, if you add event listeners to ul, you're actually adding event listeners to all of children elements inside ul as well. This happens through a process called **event bubbling**
 
 event.target : The actual element that triggered event<br>
 event.currentTarget : The element with the listener attached
