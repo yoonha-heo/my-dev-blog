@@ -1,7 +1,7 @@
 ---
-title: JavaScript Concept 2 - Scope and Closure
-date: 2019-07-12 14:07:05
-category: TIL
+title: JavaScript Concept 4 - Scope and Closure
+date: 2019-07-04 19:07:25
+category: JavaScript
 ---
 
 ## 1. What is Scope?
@@ -93,6 +93,7 @@ _References_
 
 https://www.youtube.com/watch?v=71AtaJpJHw0
 https://css-tricks.com/javascript-scope-closures/
+https://2ality.com/2015/02/es6-scoping.html
 
 <br>
 <br>
