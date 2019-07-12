@@ -2,7 +2,7 @@ module.exports = {
   title: `Web Devlog`,
   description: `Blog posted about ...`,
   author: `RossenaHuh`,
-  introduction: `💓JS 🧡react 💚sharing knowledge`,
+  introduction: `Web developer with huge interests in docs and state-of-the-art technologies`,
   siteUrl: `https://github.com/rossenahuh`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
