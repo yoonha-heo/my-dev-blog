@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript Concept Interview Questions and Answers 1'
+title: JavaScript Concept 1 - Hoisting, var / let /const, etc
 date: 2019-07-10 21:07:07
 category: 'TIL'
 ---
@@ -159,7 +159,7 @@ This is pretty absurd and this is reason why people say that they hate JavaScrip
 **let & const**
 
 - Not hoisted
-- Scoped within the block they are in
+- Scoped within the block they are in (within the curly bracket {})
 - Gives you more control
 
 ```js{3-6,12}
