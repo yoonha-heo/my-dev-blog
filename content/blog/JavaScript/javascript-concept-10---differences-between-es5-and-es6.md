@@ -58,20 +58,28 @@ obj.doubleTheNums() // [2, 4, 6]
 
 ## Object Manipulation
 
-**Spread/Rest Operator and Object.assign**
+**Spread/Rest Operator**
 
-We can now use spread operator or assign method to merge objects.
+We can now use spread operator to merge objects.
+
+```js
+// spread operator
+const obj1 = { a: 1, b: 2 }
+const obj2 = { a: 2, c: 3, d: 5 }
+const obj3 = { ...obj1, ...obj2 }
+```
+
+<br>
+
+**Object.assign**
+
+Another way to implement this, assign method.
 
 ```js
 // assign method
 var obj1 = { a: 1, b: 2 }
 var obj2 = { a: 2, c: 3, d: 5 }
 var obj3 = Object.assign(obj1, obj2)
-
-// spread operator
-const obj1 = { a: 1, b: 2 }
-const obj2 = { a: 2, c: 3, d: 5 }
-const obj3 = { ...obj1, ...obj2 }
 ```
 
 <br>
