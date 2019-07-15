@@ -215,6 +215,7 @@ class FlyingHorse extends Horse {
 
 <br>
 <br>
+
 _Sources_
 
 http://developmentr.com/javascript/2015/12/31/javascript-es6.html#classes
