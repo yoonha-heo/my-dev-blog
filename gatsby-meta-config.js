@@ -1,8 +1,8 @@
 module.exports = {
-  title: `Web Devlog`,
-  description: `Blog posted about ...`,
+  title: `Web De-vlog`,
+  description: `Today I learned in web development`,
   author: `RossenaHuh`,
-  introduction: `Web developer with huge interests in docs and state-of-the-art technologies`,
+  introduction: `Web developer who adores docs and communication`,
   siteUrl: `https://github.com/rossenahuh`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
@@ -17,7 +17,7 @@ module.exports = {
     utterances: 'rossenahuh/my-dev-blog.git', // Your repository for archive comment
   },
   configs: {
-    countOfInitialPost: 10, // Config your initial count of post
+    countOfInitialPost: 7, // Config your initial count of post
   },
   sponsor: {
     buyMeACoffeeId: 'rossena',
