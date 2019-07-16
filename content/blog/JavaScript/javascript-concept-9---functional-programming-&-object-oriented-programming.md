@@ -99,7 +99,7 @@ function double(num) {
 
 <br>
 
-**3. Modulaar**
+**3. Modular**
 
 - like a building blocks with small units
 - Empowers us to deduplicate the code
