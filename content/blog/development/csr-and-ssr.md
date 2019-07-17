@@ -1,5 +1,5 @@
 ---
-title: Client Side Rendering & Server Side Rendering
+title: Sever Side Rendering & Client Side Rendering
 date: 2019-07-17 14:07:02
 category: Development
 ---
