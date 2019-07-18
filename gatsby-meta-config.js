@@ -2,7 +2,7 @@ module.exports = {
   title: `Web Devlog`,
   description: `Today I learned in web development`,
   author: `RossenaHuh`,
-  introduction: `Fast learning Web Developer with interests in state-of-art technologies and a person who seeks for diversity in life and good communications.`,
+  introduction: `Fast learning Web Developer with interests in state-of-art technologies and a person who continuously seeks for a diversity and better good communications in life.`,
   siteUrl: `https://github.com/rossenahuh`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
