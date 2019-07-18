@@ -36,10 +36,10 @@ greeting.hello() // 'hello'
 
 ## Babel & Webpack
 
-Though ES Modules now landed in the browsers, there still are old versions of browsers or servers that don't understand the syntax of ES Modules. To make our codes compatible for those environmnets, transpiling process (put simply, **translating es6 syntax to es5**) is necessary.
+Though ES Modules now landed in the browsers, there are some old versions of browsers or servers that don't understand the syntax of ES Modules. To make our codes compatible for those environments, transpiling process (put simply, **translating es6 syntax to es5**) is necessary.
 
 The well-known ones are **babel** and bundling tool, **webpack**.
-A JavaScript bundler gathers the separated codes into one .js file and you can set it up for es5 conversioin as well if there are codes written in es6.
+A JavaScript bundler gathers the separated codes into one .js file and you can set it up for es5 conversion as well if there are codes written in es6.
 
 ## Conclusion
 
